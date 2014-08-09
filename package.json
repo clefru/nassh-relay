@@ -1,0 +1,18 @@
+{
+  "name": "nassh-relay",
+  "version": "0.1.0",
+  "author": {
+    "author": "Clemens Fruhwirth <clemens@endorphin.org>"
+  },
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "atob": "1.1.0",
+    "btoa": "1.1.0",
+    "node-uuid": "1.4.0",
+    "websocket": "1.0.8"
+  },
+  "main": "nassh-relay.js",
+  "engines": {
+    "node": ">= 0.7"
+  }
+}
